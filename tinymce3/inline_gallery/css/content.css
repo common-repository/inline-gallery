@@ -1,0 +1,9 @@
+.mceIGgallery {
+	border: 0;
+	border-top: 1px dotted #cccccc;
+	display: block;
+	width: 100%;
+	height: 12px;
+	margin-top:15px;
+	background: #fff url(../img/gallery_bug.gif) top right no-repeat;
+}

@@ -1,0 +1,10 @@
+.mce_plugin_inline_gallery {
+	border: 1px;
+	border-top: 1px dotted #cccccc;
+	display:block;
+	background-color: #ffffff;
+	margin-top:15px;
+	background-image: url(images/gallery_bug.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}

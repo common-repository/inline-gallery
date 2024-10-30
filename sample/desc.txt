@@ -1,0 +1,6 @@
+[meta]
+name=Sample Gallery
+
+[cat.jpg]
+caption=a cat
+
